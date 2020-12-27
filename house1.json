@@ -27,6 +27,12 @@
          "id":26,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"{<lobby>\/hardware-making.json#start_openbikesensor}"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
