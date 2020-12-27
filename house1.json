@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/hardware-making.json#start_openbikesensor}"
+                 "value":"{<lobby>\/maps\/hardware-making.json#start_openbikesensor}"
                 }],
          "type":"tilelayer",
          "visible":true,
